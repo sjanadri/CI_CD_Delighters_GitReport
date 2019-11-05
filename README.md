@@ -1,4 +1,7 @@
 # CI-CD-Delighters
 CI/CD Delighters
-# CI_CD_Delighters
-# CI_CD_Delighters
+
+
+installation-environment-core
+=============================
+Master build status: [![Build Status](https://jenkins.cerner.com/installsol/view/EM+/job/Installation-environment-core/badge/icon?style=plastic)](https://jenkins.cerner.com/installsol/view/EM+/job/Installation-environment-core/)
